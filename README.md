@@ -1,4 +1,7 @@
 ### Hi there 👋
+Adithya here!😁 Hope you're doing great :D
+
+I'm planning on displaying all the cool projects I've worked on - over here sometime soon. So stay tuned!
 
 <!--
 **Adithya-Jayan/Adithya-Jayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
